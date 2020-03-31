@@ -2,5 +2,5 @@ name: world2png
 author: PetteriM1
 version: "${pom.version}"
 api: "1.0.0"
-main: world2png.Main
 load: POSTWORLD
+main: world2png.Main
